@@ -1,0 +1,13 @@
+#baukit==0.0.1
+datasets==2.13.1
+einops==0.6.1
+matplotlib==3.7.1
+numpy==1.24.3
+pandas==1.5.3
+scikit-learn==1.2.2
+scipy==1.10.1
+seaborn==0.12.2
+sentencepiece==0.1.99
+torch==1.13.1+cu117
+tqdm==4.65.0
+transformers==4.30.2
