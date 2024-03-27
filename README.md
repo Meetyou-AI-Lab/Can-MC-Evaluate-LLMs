@@ -153,7 +153,7 @@ Then, we can visualize the features through t-Distributed stochastic neighbor em
 **If the paper, codes, or the dataset inspire you, please cite us:**
 
 ```
-@article{XXX
+@article{
   title={Can multiple-choice questions really be useful in detecting the abilities of LLMs?},
   author={Wangyue Li, Liangzhi Li, Tong Xiang, Xiao Liu, Wei Deng, Noa Garcia},
   journal={arXiv preprint arXiv:2403.17752},
