@@ -1,4 +1,4 @@
-<img width="379" alt="image" src="https://github.com/Meetyou-AI-Lab/Can-MC-Evaluate-LLMs/assets/136318492/6f0da7ad-3638-41a7-8945-3c928df78e57"># Can multiple-choice questions really be useful in detecting the abilities of LLMs?
+# Can multiple-choice questions really be useful in detecting the abilities of LLMs?
 
 <table align="center" style="border: 1px solid white;">
   <tr>
