@@ -64,7 +64,7 @@ We target decoder-only models since this architecture has become the dominant ch
 | [Open-llama-3/7B](https://doi.org/10.48550/arXiv.2302.13971) |   |   |  | | :heavy_check_mark:|  
 | [Llama-2-7b-chat-hf](https://arxiv.org/abs/2307.09288) |   |   |  | | :heavy_check_mark:| 
 
-The paper is currently on [arXiv](https://arxiv.org/abs/XXXXX). [To do]
+The paper is currently on [arXiv](https://arxiv.org/abs/2403.17752). 
 
 ## Are LLMs sensitive to the order of candidate answers
 We first find that when the LLMs are presented with some options in different orders, they consistently show a strong preference for the same position, as illustrated in the following figure. We have two cases of option order, in CASE1, the option numbering is ’ABCD’, and in CASE2, theo ption numbering is ’BACD’. The ground truth is always D. The LLM prefers wrong options in the first position in the ARC dataset.
